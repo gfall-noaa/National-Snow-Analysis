@@ -4,4 +4,4 @@ This is the software repository for projects that support the National Snow Anal
 
 ## Description
 
-This repository does not host the main operational NSA code. Its purpose is a development environment for new products and capabilities to provide additional operational support to the NSA/SNODAS system.
+This repository does not host the main operational NSA code. Its purpose is to provide a development environment for new products and capabilities to provide additional operational support to the NSA/SNODAS system.
